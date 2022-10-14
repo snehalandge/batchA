@@ -34,6 +34,7 @@ public class Anagram {
 			
 			
 		}
+		
 		else System.out.println("given words are not an anagrams");
 	}
 
